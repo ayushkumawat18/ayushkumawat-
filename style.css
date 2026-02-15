@@ -85,7 +85,7 @@ nav a:hover {
 .home-content h3 {
     margin: 10px 0;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 15px;
     opacity: 1;
     animation: slideBottom 1s ease forwards;
     animation-delay: .7s;
